@@ -12,7 +12,7 @@
 #define CONFIG_START 0
 #define CONFIG_VERSION "v01"
 
-
+//put your easyiot-cloud here
 
 #define EIOTCLOUD_USERNAME "Your easy-iot cloud Username"
 #define EIOTCLOUD_PASSWORD "Your easy-iot cloud Username"
